@@ -1,0 +1,1 @@
+export const CDN = "https://logowik.com/content/uploads/images/free-food-delivery8485.logowik.com.webp";
